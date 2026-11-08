@@ -1,0 +1,19 @@
+title: "CapSept Accessibility statement"
+description: "Public, version-controlled accessibility statement for CapSept, maintained by Ariel Tyson."
+url: "https://arieltyson.github.io"
+baseurl: "/CapSept-accessibility"
+repository_url: "https://github.com/arieltyson/CapSept-accessibility"
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - LICENSE
+  - NOTICE.md
+  - SECURITY.md
+  - ACCESSIBILITY.md
+  - ACCESSIBILITY_STATEMENT.md
+  - KNOWN_ISSUES.md
