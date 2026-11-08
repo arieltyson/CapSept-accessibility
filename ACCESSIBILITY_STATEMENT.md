@@ -16,6 +16,7 @@ older learners who use larger text. Accessibility is checked before each release
 | Differentiate Without Color Alone | Correct and wrong answers carry a glyph and a word. Levels carry a bar, a target line, a written level and a glyph. Key phrases are underlined as well as emphasised. |
 | Sufficient Contrast | Every text colour meets WCAG AA in tests, with stronger colours when Increase Contrast is on. |
 | Reduced Motion | All animation goes through one setting-aware path; with Reduce Motion it is removed. |
+| Apple Watch | The word prompt reads the French with a French VoiceOver voice. Its buttons are labelled (Check, Missed it, Knew it), have different shapes as well as colours, and use dark glyphs that meet WCAG AA on their fills. Text follows the watch's text size. Prompts can be turned off in iPhone Settings. |
 | Captions | Every listening clip has a transcript, shown after answering, or during playback with **Show captions while clips play** in Settings. |
 
 The interface is available in English and French.
